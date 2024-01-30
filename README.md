@@ -1,1 +1,0 @@
-# Ancient-WSCube-Tech-main

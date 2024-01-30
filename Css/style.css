@@ -1,0 +1,527 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}   
+
+.section1{
+    width: 100%;
+    background-image: url(../images/bg_img.jpg);
+}
+.clear{
+    clear: both;
+}
+.logo{
+    width: 1000px;
+    margin: auto;
+}
+.logoleft{
+    padding-top: 10px;
+    width: 50%;
+    float: left;
+}
+.logoright{
+    padding-top: 20px;
+    width: 50%;
+    float: right;
+    text-align: right;
+    font-size: 20px;
+    line-height: 25px;
+    color: #09c;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+.logoright a{
+    color: rgb(0,102,204);
+}
+.row2{
+    background-image: url("../images/menu_rept.jpg");
+    width: 1000px;
+    margin: 25px auto 0px auto;
+    border-radius: 10px;
+
+}
+
+.row2c1{
+    padding: 15px 15px;
+    float: left;
+    font-size: 15px;
+}
+.section2{
+    width: 1000px;
+    margin: auto;
+}
+.whychoose{
+    font-size: 20px;
+    font-weight: normal;
+}
+.highquality{
+    width: 31%;
+    margin-right: 2%;
+    float: left;
+    
+}
+.highheadding{
+    font-size: 18px;
+    padding: 10px;
+}
+.highcontent{
+    padding: 10px 0px;
+}
+.contimg{
+    width: 25%;
+    float: left;
+}
+.cont{
+    width: 74%;
+    float: left;
+    text-align: justify;
+    font-size: 14px;
+}
+.highquality1{
+    width: 31%;
+    margin-right: 1%;
+    float: left;
+    border-right: 1px solid skyblue;
+    padding-right: 1%;
+}
+.border{
+    width: 1000px;
+    height: 1px;
+    background-color: skyblue;
+    margin: 20PX auto;
+}
+.ourservices{
+    width: 964px;
+    height: 233px;
+    background-image: url("../images/midback.png");
+}
+.our-row{
+    width: 100%;
+    height: 56px;
+}
+.our-items{
+    width: 33%;
+    float: left;
+}
+.our-img{
+    width: 20%;
+    float: left;
+    padding: 10px 0px;
+}
+.our-cont{
+    width: 76%;
+    float: left;
+    padding: 15px 5px;
+}
+.our-cont a{
+    font-weight: normal;
+    padding-left: 20px;
+    font-size: 14px;
+    color: #1f588f;
+    
+}
+.our-items img{
+    width: 67px;
+    height: 40px;
+}
+.domin{
+    width: 29%;
+    margin-right: 4%;
+    float: left;
+    margin: 15px 0px;
+}
+.dominimg{
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+}
+.domincont{
+    width: 75%;
+    float: left;
+    text-align: justify;
+    font-size: 12px;
+    font-weight: 35px;
+}
+
+.domincont h5{
+    color: #084a87;
+    font-size: 16px;
+}
+.clientview{
+    width: 65%;
+    float: left;
+    margin: 15px 20px;
+}
+.clientimg{
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+}
+.kabran{
+    text-align: right;
+    font-size: 14px;
+}
+.section3{
+    width: 100%;
+    background: url("../images/footer.png");
+}
+.quick{
+    width: 30%;
+    margin: 20px 5px;
+    font-size: 14px;
+    float: left;
+}
+.dot{
+    width: 6px;
+    height: 6px;
+    float: left;
+    margin: 6px 6px;
+    background: url("../images/dot.png") no-repeat;
+}
+.quickcont{
+    float: left;
+    padding: 1px;
+}
+.quickcont a{
+    font-size: 12px;
+    font-weight: normal;
+    color: #084a87;
+}
+.quick h4{
+    margin-left: 5px;
+    color: red;
+}
+.quick1{
+    width: 30%;
+    margin: 20px 5px;
+    float: left;
+    color:#084a87;
+    
+}
+.quick2{
+    width: 90%;
+    font-size: 12px;
+    float: left;
+    text-align: right;
+    margin-bottom: 5px;
+
+}
+.locationcont{
+    color: red;
+    padding-left: 40%;
+    margin-bottom: 0px;
+}
+.location1{
+    border-right: 1px solid black;
+    padding-right: 5px;
+    
+}
+.quickcont1{
+    text-align: right;
+    float: none;
+    padding-right: 5px;
+}
+.lastfooter{
+    width: 1000px;
+    height: 100px;
+    border-top: 1px solid skyblue;
+    margin:10px auto;
+}
+.footerimg{
+    float: right;
+    width: 250px;
+    margin: 20px 50px;
+}
+.f{
+    background: url("../images/facebook.png");
+    float: left;
+    height: 45px;
+    width: 45px;
+}
+.t{
+    background: url("../images/twitter.png");
+    float: left;
+    height: 45px;
+    width: 45px;
+}
+.in{
+    background: url("../images/in.png");
+    float: left;
+    height: 45px;
+    width: 45px;
+}
+.d{
+    background: url("../images/shaare.png");
+    float: left;
+    height: 45px;
+    width: 45px;
+}
+.aboutsection{
+    background: url("../images/bg_innerpage.jpg") no-repeat;
+    width: 100%;
+}
+
+.leftsection{
+    width: 25%;
+    float: left;
+}
+.serviceleft{
+    width: 50%;
+}
+.serviceleft p{
+    font-size: 12px;
+}
+.section2left{
+    background: url("../images/leftpanel.png") no-repeat;
+    height: 383px;
+    margin-left: 8px;
+}
+.section2left h4{
+    text-align: center;
+    color: red;
+    padding-top: 10px;
+}
+
+.sectionlist{
+    margin: 8px 10px;
+    font-size: 12px;
+    line-height: 20px;
+}
+.sectionlist a{
+    color: #084a87;
+}
+.section2blow{
+    background: url("images/leftbelow.png") no-repeat;
+    margin-left: 8px;
+    height: 323px;
+    color: #084a87;
+}
+
+.section2blow h4{
+    text-align: center;
+    color: red;
+    padding-top: 10px;
+}
+.details{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 12px;
+    line-height: 15px;
+}
+.textarea{
+    width: 168px;
+    height: 70px;
+    resize: none;
+}
+.requesst{
+    float: right;   
+    padding-right: 55px;
+    font-size: 14px;
+}
+.rightsection{
+    width: 70%;
+    float: left;
+    margin-left: 15px;
+
+}
+.rightsection h3{
+
+    color: #003c66;
+}
+.rightsection p{
+    font-size: 12px;
+    text-align: justify;
+    line-height: 25px;
+}
+.portimg{
+    float: left;
+    margin: 0px 20px 25px 0px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 20px;
+}
+.portimg img{
+    margin-bottom: 10px;
+    border: 1px solid  #CCCCCC ;
+}
+.portimg a{
+    text-decoration: underline;
+    color: blue;
+}
+.portimg a:active{
+    color: red;
+}
+.rightcareess a{
+    font-size: 14px;
+    font-weight: bold;
+}
+.CC{
+    padding: 10px;
+    font-size: 13px;
+}
+.ccleft{
+    width: 25%;
+    float:left;
+    margin-left: 13px;
+}
+.rightcolon{
+    float: right;
+}
+.ccright{
+    width: 70%;
+    float: left;
+    margin-left: 10px;
+}
+.ccbutton{
+    float: right;
+}
+.maincont{
+    text-align: justify;
+    margin-top: 15px;
+}
+.maincont1{
+    margin-top: 15px;
+}
+.maincontright{
+    font-size: 14px;
+    font-weight: bold;
+}
+.careerform{
+    width: 100%;
+}
+.formleft{
+    font-size: 11px;
+    width: 40%;
+    line-height: 20px;
+    padding-top: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.carrertext{
+    width: 230px;
+    color: #656565;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: 1px solid #d6d6d6;
+}
+.formright{
+    font-size: 11px;
+    width: 50%;
+    line-height: 20px;
+    padding-top: 20px;
+    float: left;
+}
+.carrertext1{
+    width: 270px;
+    height: 160px;
+}
+.submit{
+    background: #9FBD3B;
+    border: 1px solid #d6d6d6;
+    border-radius: 8px;
+    width: 85px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+.star{
+    color: red;
+    float: left;
+    font-size: 15px;
+}
+.formname p{
+    float: left;
+    margin: 0px;
+    padding-right: 5px;
+}
+.submit:hover{
+    background: white;
+    color: #9FBD3B;
+
+}
+.formleft select{
+    font-size: 12px;
+    width: 230px;
+    height: 30PX;
+}
+.carrertext2{
+    height: 100px;
+}
+.file{
+    border: 1px solid #d6d6d6;
+}
+.formname{
+    margin-bottom: 5px;
+}
+.rightsectionleft{
+    width: 50%;
+    float: left;
+}
+.righsectionbottom h6{
+    float: left;
+    width: 30%;
+    
+}
+.righsectionbottom h6:nth-child(2){
+    text-align: center;
+    padding-right: 10px;
+}
+.righsectionbottom h6:first-child{
+    width: 27%;
+}
+.cutter{
+    width: 31%;
+    float: left;
+    padding-left: 2%;
+}
+.rightsectionright{
+    float: left;
+    width: 50%;
+}
+.pagetitlearrow{
+    float: left;
+    padding-right: 5px;
+    margin-top: 20px;
+}
+.titlearrow{
+    padding-top: 3px;
+}
+.h3{
+    float: left;
+    margin-left: 15px;
+}
+.rightsection p{
+    padding-bottom: 10px;
+}
+table tr th{
+    padding: 15px 0px;
+}
+.rightsectioncont li{
+    font-size: 14px;
+    line-height: 20px;
+}
+.maincont1 h2{
+    margin-left: 25px;
+    color: #003c66;
+}
+.maincont1 h3{
+    width: 50%;
+    font-size: 22px;
+
+}
+.serviceleft p {
+    font-size: 13px;
+    width: 90%;
+    text-align: justify;
+}
+.serviceleft a{
+    text-decoration: underline;
+    color: -webkit-link;
+    float: right;
+}
